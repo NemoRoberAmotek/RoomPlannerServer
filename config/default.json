@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://reactroomplanner:2EiBUHKp85R6ilAK@cluster0.pquxm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
